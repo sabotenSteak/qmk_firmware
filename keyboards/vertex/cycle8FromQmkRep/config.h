@@ -4,4 +4,3 @@
 #pragma once
 
 #define WS2812_SPI_DRIVER SPID2
-#define LED_PIN_ON_STATE 0
